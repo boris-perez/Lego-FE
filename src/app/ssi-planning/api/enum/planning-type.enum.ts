@@ -1,0 +1,5 @@
+export enum PlanningTypeEnum {
+  FRACTURE = 'FRACTURE',
+  SLIGHT_INJURY = 'SLIGHT_INJURY',
+  BLEEDING = 'BLEEDING'
+}
